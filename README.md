@@ -125,4 +125,4 @@ QR CODE IS GENERATED ON YOUR DESKTOP
 
 * Project Name: **QR Generator**
 * Language Used: **Python**
-* MD BY DIPIKA ANAND
+* M BY DIPIKA ANAND
